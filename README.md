@@ -1,6 +1,7 @@
 # pingLoop
-This script provides two methods of pinging domains, supposedly aiming to attack or boost their SEO rank. Attacking works by pinging random paths and boosting by just pinging provided paths. No results are quaranteed, it's a simple pinging tool. Use it to test and experiment with your website's behaviour. 
-Detailed logging is provided on each script run, as well as IP rotation after each URL ping.
+This script provides two methods of pinging domains, supposedly aiming to attack or boost their SEO rank. Attacking works by pinging random paths and boosting by just pinging provided paths. No results are quaranteed, it's a simple pinging tool. Detailed logging is provided on each script run, as well as IP rotation after each URL ping.
+
+Use it to test and experiment with your website's behaviour and SEO rank.
 
 **Mode A, SEO Attack:**
 
@@ -48,4 +49,4 @@ CookieAuthentication 1
 'pip install request'
 
 
-**_Disclaimer:  This script was made solely for educational purposes. Please test this bot on your own funded account. I am not responsible for any misuse of this script._**
+**_Disclaimer: This script was made solely for educational and testing purposes. Please test this bot on your own website/domain. I am not responsible for any misuse of this script._**
